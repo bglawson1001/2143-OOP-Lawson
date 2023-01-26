@@ -20,9 +20,9 @@
 *                                                                        *
 *                                                                        *
 *  Usage:                                                                *
-*       - $ ./main filename                                              *
-*       - This will read in a file containing whatever values to         *   
-*          be read into our list/array.                                  *
+*                                                                        *
+*                                                                        *   
+*          .                                                             *
 *                                                                        *
 *  Files:                                                                *
 *       main.cpp    : driver program                                     *
