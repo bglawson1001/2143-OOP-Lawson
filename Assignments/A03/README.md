@@ -18,4 +18,4 @@ This assignment showcases why commenting in a program is important.
 
 ### Example Command
 
-- No user input the commands are done in the program.
+- No user input, the commands are done in the program.
