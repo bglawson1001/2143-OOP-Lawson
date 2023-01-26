@@ -14,7 +14,7 @@ This assignment showcases why commenting in a program is important.
 
 ### Instructions
 
-- #include <iostream> and using namespace std are all that's needed.
+- #include iostream and using namespace std are all that's needed.
 
 ### Example Command
 
