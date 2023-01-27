@@ -61,7 +61,7 @@ class CircularArrayQue {
 private:
     int *Container;  // size is stored here.
     int Front;       // beginning of the queue.
-    int Rear;        // end/bottom of the queue.
+    int Rear;        // end of the queue.
     int QueSize;     // items in the queue 
     int CurrentSize; // keeps track of the current size of the 
                      //queue.
