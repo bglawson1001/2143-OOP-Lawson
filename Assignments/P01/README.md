@@ -9,7 +9,7 @@ to make changes to the order of numbers in a linked list.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P01/main.cpp | Main driver of my Vector Class program . |
+|   1   | main.cpp | Main driver of my Vector Class program . |
 
 
 ### Instructions
