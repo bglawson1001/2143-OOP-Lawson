@@ -3,7 +3,7 @@
 ## Description 
 
 This program will be a linked list based Vector class that will use various functions
-to make changes to a linked list such as adding, removing numbers and adding linked lists to other linked lists.
+to make changes to a linked list such as adding and removing numbers and adding linked lists to other linked lists.
 
 ### Files
 
