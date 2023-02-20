@@ -3,7 +3,7 @@
 ## Description 
 
 This program has some code from the previous Vector Class program, but the biggest change between this one
-and the previous one is that this program focuses on overloading operators such as addition, subtraction,equality etc.
+and the previous one is that this program focuses on overloading operators such as addition, subtraction, equality etc.
 
 ### Files
 
