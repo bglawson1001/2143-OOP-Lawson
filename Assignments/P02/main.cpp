@@ -838,7 +838,7 @@ int main() {
     cout << v3 << endl;
     // writes out [9,18,27,4,9] to console
     fout << v3 << endl;
-   . // writes out [9,18,27,4,9] to the output file.
+    // writes out [9,18,27,4,9] to the output file.
 
     v3 = v2 * v1;
     cout << v3 << endl;
