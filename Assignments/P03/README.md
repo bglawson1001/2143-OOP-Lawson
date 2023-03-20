@@ -11,7 +11,7 @@ The second is for a doubly linked list, and the final code is for a Binary Searc
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [main.cpp](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P03/main.cpp) | Main driver of my Graphviz Class program . |
-|   2   | [test.out](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P02/output.txt)| Output file for my Graphviz Class program.
+|   2   | [test.out](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P03/test.out)| Output file for my Graphviz Class program.
 
 ### Instructions
 
