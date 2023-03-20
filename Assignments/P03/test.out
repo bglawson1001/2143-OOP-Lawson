@@ -1,0 +1,46 @@
+Brayden Lawson
+3-20-23
+Spring 2143
+ 
+digraph LL {
+        rankdir=LR;
+        node [shape=record];
+0 [color="black", label="{ <data> 0 | <next>  }", shape="record"]
+1 [color="red", shape="oval"]
+2 [color="purple", shape="polygon"]
+3 [color="green", shape="tripleoctagon"]
+4 [color="yellow", label="{ <data> null | <next>  }", shape="record"]
+0->1 [arrowhead="box", color="red"]
+1->2 [arrowhead="crow", color="purple"]
+2->3 [arrowhead="icurve", color="green"]
+3->4 [arrowhead="diamond", color="blue"]
+
+}
+
+digraph DLL {
+   rankdir=LR;
+node [shape=record,color=red];0 [color="black", label="{  <prev>  |<data> 0 | <next>  }", shape="record"]
+1 [color="black", label="{  <prev>  |<data> 1 | <next>  }", shape="record"]
+2 [color="black", label="{  <prev>  |<data> 2 | <next>  }", shape="record"]
+3 [color="black", label="{  <prev>  |<data> 3 | <next>  }", shape="record"]
+4 [color="black", label="{  <prev>  |<data> null | <next>  }", shape="record"]
+0->1 [arrowhead="dot", color="orange"]
+1->0 [arrowhead="dot", color="orange"]
+1->2 [arrowhead="normal", color="black"]
+2->1 [arrowhead="normal", color="black"]
+2->3 [arrowhead="tee", color="grey"]
+3->2 [arrowhead="tee", color="grey"]
+3->4 [arrowhead="vee", color="purple"]
+4->3 [arrowhead="vee", color="purple"]
+}
+
+digraph BST {
+5->6 [arrowhead="box", color="pink"]
+5->7 [arrowhead="box", color="pink"]
+6->8 [arrowhead="crow", color="blue"]
+6->9 [arrowhead="crow", color="blue"]
+7->10 [arrowhead="icurve", color="black"]
+7->11 [arrowhead="icurve", color="black"]
+
+}
+
