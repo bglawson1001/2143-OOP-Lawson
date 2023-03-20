@@ -10,8 +10,8 @@ The second is for a doubly linked list, and the final code is for a Binary Searc
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P02/main.cpp) | Main driver of my Vector Class 2 program . |
-|   2   | [output.txt](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P02/output.txt)| Output file for my Vector Class 2 program.
+|   1   | [main.cpp](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P02/main.cpp) | Main driver of my Graphviz Class program . |
+|   2   | [output.txt](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P02/output.txt)| Output file for my Graphviz program.
 
 ### Instructions
 
