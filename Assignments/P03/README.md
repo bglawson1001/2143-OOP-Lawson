@@ -4,7 +4,7 @@
 ## Description 
 
 This C++ program outputs Graphviz code. In total it is three different Grapviz codes. The first is for a singly linked list.
-The second is for a doubly linked list, and the final code is for a Binary Search Tree.
+The second is for a doubly linked list, and the final piece code is for a Binary Search Tree.
 
 ### Files
 
