@@ -8,7 +8,7 @@ This assignment defines various OOP terms and shows examples.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [A)4](main.cpp) | Wiki page that contains the OOP terms. |
+|   1   | [A04](main.cpp) | Wiki page that contains the OOP terms. |
 
 
 ### Instructions
