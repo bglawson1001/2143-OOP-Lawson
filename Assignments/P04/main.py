@@ -31,6 +31,9 @@ def dieTester(die, runs=10, testType="sum"):
 
 if __name__ == '__main__':
 
+  print("Brayden Lawson")
+  print("4-24-23")
+  print("Spring 2143")
   d1 = Die()
   d2 = Die(20)
   d3 = Dice(10, 5)
