@@ -7,3 +7,4 @@
 |  03   | [P02](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/P02)| Continuation of the vector class program, but with overloading operators.
 |  04   | [P03](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/P03)| C++ program that outputs Graphviz code.
 |  05   | [A04](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/A04/README.md)| Wiki that shows definitions and examples of various OOP terminology. (Not complete).
+|  06   | [P04](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/A04/README.md)| Python program containing a dice class that will be used in the final programming assignment. 
