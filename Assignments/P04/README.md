@@ -10,7 +10,7 @@ This is a sneak peek of the final program, the D&D program.
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [main.py](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P04/main.py) | Tester file of my Roll them bones program . |
-|   2   | [test.out](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P03/test.out)| Output file for my Graphviz Class program.
+|   2   | [dice.py](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/P04/dice.py)| File that contains the methods and classes for the Roll them bones program.
 
 ### Instructions
 
