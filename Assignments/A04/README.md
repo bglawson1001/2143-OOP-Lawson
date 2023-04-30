@@ -8,7 +8,7 @@ This assignment defines various OOP terms and shows examples.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [OOP_Primer](https://github.com/bglawson1001/2143-OOP-Lawson/wiki/OOP-Primer) | Wiki that contains the OOP terms. |
+|   1   | [OOP_Primer](https://github.com/bglawson1001/2143-OOP-Lawson/wiki) | Wiki that contains the OOP terms. |
 
 
 ### Instructions
