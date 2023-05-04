@@ -8,3 +8,4 @@
 |  04   | [P03](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/P03)| C++ program that outputs Graphviz code.
 |  05   | [A04](https://github.com/bglawson1001/2143-OOP-Lawson/blob/main/Assignments/A04/README.md)| Wiki that shows definitions and examples of various OOP terminology.
 |  06   | [P04](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/P04)| Python program containing a dice class that will be used in the final programming assignment. 
+|  07   | [A05](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/P04)| UML Diagram of classes that could be used in a D&D program. 
