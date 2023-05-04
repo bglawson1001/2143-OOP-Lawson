@@ -1,19 +1,9 @@
-### Person
-
-<img src="images/draw.io.person.png" width="200">
-
-### Street
-
-<img src="images/draw.io.street.png" width="200">
-
-### Student
-
-<img src="images/draw.io.student.png" width="200">
-
-### Professor
-
-<img src="images/draw.io.professor.png" width="200">
-
-### Diagram
-
-<img src="draw.io.wholething" width="400">
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/uml_vid_250.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.person.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.step1.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.step2.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.person.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.street.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.student.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.professor.png --no-check-certificate
+wget https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.wholething.png --no-check-certificate
