@@ -8,7 +8,7 @@ This assignment shows various classes and the relationships between them. These 
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [UML](https://github.com/bglawson1001/2143-OOP-Lawson/wiki) | Wiki that contains the OOP terms. |
+|   1   | [UML](https://github.com/bglawson1001/2143-OOP-Lawson/tree/main/Assignments/A05/UML) | This links to the UML diagrams. |
 
 
 ### Instructions
