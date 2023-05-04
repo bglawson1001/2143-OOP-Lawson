@@ -1,3 +1,24 @@
+## A05 - Designing your Game
+### Brayden Lawson
+### Description:
+
+This assignment shows various classes and the relationships between them. These classes could be used in a D&D program.
+
+### Files
+
+|   #   | File     | Description                      |
+| :---: | -------- | -------------------------------- |
+|   1   | [UML](https://github.com/bglawson1001/2143-OOP-Lawson/wiki) | Wiki that contains the OOP terms. |
+
+
+### Instructions
+
+Click the link to view the UML diagrams.
+
+
+
+
+
 ![Screenshot 2023-05-04 115612](https://user-images.githubusercontent.com/122930732/236273307-1253f3d6-2852-400b-adcb-ce01695ba877.png)
 
 ![Screenshot 2023-05-04 115855](https://user-images.githubusercontent.com/122930732/236273984-35cba134-1ff4-47f1-80ff-1169776fac62.png)
